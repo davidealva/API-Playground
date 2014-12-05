@@ -1,5 +1,3 @@
-
-
 $(document).ready(function() {
 	// set URL for JSON call to API
 'use strict';
